@@ -72,6 +72,7 @@ module.exports = {
     ],
     Development: [
       "development/clean-room",
+      "development/pre-commit",
       "development/documentation",
       "development/setup",
       "development/build-flash",
